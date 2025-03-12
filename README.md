@@ -14,7 +14,7 @@ To replicate the main figures from our paper, use the `run_main_experiments.sh` 
 ### Usage
 
 ```bash
-./run_main_experiments.sh [--figures FIGURE_LIST] [--device DEVICE]
+./run_main_experiments.sh
 ```
 - **On a MacBook**: Use the CPU for running the experiment.  
 - **On a system with an NVIDIA GPU**: You can run the experiment with CUDA.  
